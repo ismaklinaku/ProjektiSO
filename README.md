@@ -1,1 +1,1 @@
-# ProjektiSO
+# Multithreaded Client-Server Application
