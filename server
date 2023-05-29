@@ -1,3 +1,2 @@
 cd Desktop/Projekti
-gcc -o server server.c
 ./server 4444
